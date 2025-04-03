@@ -1,0 +1,133 @@
+﻿Abbreviation;Discipline;Sport;Season;Olympic Status?
+IH3;3-on-3 Ice Hockey;Ice Hockey;Winter;FALSE
+BK3;3x3 Basketball;Basketball;Summer;TRUE
+GAC;Acrobatic Gymnastics;Gymnastics;Summer;FALSE
+AER;Aeronautics;Air Sports;Summer;TRUE
+ALP;Alpine Skiing;Skiing;Winter;TRUE
+APN;Alpinism;Mountaineering and Climbing;Summer;TRUE
+USF;American Football;American Football;Summer;FALSE
+AAR;Ancient Art Competitions;Ancient Sports;Summer;FALSE
+AAT;Ancient Athletics;Ancient Sports;Summer;FALSE
+ACB;Ancient Combative Sports;Ancient Sports;Summer;FALSE
+AEQ;Ancient Equestrianism;Ancient Sports;Summer;FALSE
+ARC;Archery;Archery;Summer;TRUE
+ART;Art Competitions;Art Competitions;Summer;TRUE
+GAR;Artistic Gymnastics;Gymnastics;Summer;TRUE
+SWA;Artistic Swimming;Aquatics;Summer;TRUE
+ATH;Athletics;Athletics;Summer;TRUE
+ARF;Australian Rules Football;Australian Rules Football;Summer;FALSE
+AUT;Automobile Racing;Automobile Sports;Summer;FALSE
+BDM;Badminton;Badminton;Summer;TRUE
+BLN;Ballooning;Air Sports;Summer;FALSE
+BDY;Bandy;Bandy;Winter;FALSE
+BBL;Baseball;Baseball/Softball;Summer;TRUE
+BKB;Basketball;Basketball;Summer;TRUE
+PEL;Basque pelota;Basque pelota;Summer;TRUE
+BHA;Beach Handball;Handball;Summer;FALSE
+VBV;Beach Volleyball;Volleyball;Summer;TRUE
+BTH;Biathlon;Biathlon;Winter;TRUE
+BPO;Bicycle Polo;Cycling;Summer;FALSE
+BOB;Bobsleigh;Bobsleigh;Winter;TRUE
+BOU;Boules;Boules;Summer;FALSE
+BWL;Bowling;Bowling;Summer;FALSE
+BOX;Boxing;Boxing;Summer;TRUE
+BKG;Breaking;Dance;Summer;FALSE
+CNN;Canne De Combat;Savate;Summer;FALSE
+CMA;Canoe Marathon;Canoeing;Summer;TRUE
+CSL;Canoe Slalom;Canoeing;Summer;TRUE
+CSP;Canoe Sprint;Canoeing;Summer;TRUE
+CKT;Cricket;Cricket;Summer;TRUE
+CQT;Croquet;Croquet;Summer;TRUE
+CCS;Cross Country Skiing;Skiing;Winter;TRUE
+CUR;Curling;Curling;Winter;TRUE
+BMF;Cycling BMX Freestyle;Cycling;Summer;TRUE
+BMX;Cycling BMX Racing;Cycling;Summer;TRUE
+MTB;Cycling Mountain Bike;Cycling;Summer;TRUE
+CRD;Cycling Road;Cycling;Summer;TRUE
+CTR;Cycling Track;Cycling;Summer;TRUE
+DIV;Diving;Aquatics;Summer;TRUE
+DSR;Dogsled Racing;Dogsled Racing;Winter;FALSE
+EDR;Equestrian Dressage;Equestrian;Summer;TRUE
+EDV;Equestrian Driving;Equestrian;Summer;TRUE
+EVE;Equestrian Eventing;Equestrian;Summer;TRUE
+EJP;Equestrian Jumping;Equestrian;Summer;TRUE
+EVL;Equestrian Vaulting;Equestrian;Summer;TRUE
+FEN;Fencing;Fencing;Summer;TRUE
+FSK;Figure Skating;Skating;Winter;TRUE
+FFG;Firefighting;Firefighting;Summer;FALSE
+FSH;Fishing;Fishing;Summer;FALSE
+FBL;Football;Football;Summer;TRUE
+FRS;Freestyle Skiing;Skiing;Winter;TRUE
+FTS;Futsal;Football;Summer;FALSE
+GFB;Gaelic Football;Gaelic Sports;Summer;FALSE
+GLD;Gliding;Air Sports;Summer;FALSE
+GLM;Glíma;Glíma;Summer;FALSE
+GLF;Golf;Golf;Summer;TRUE
+GTS;Gotland Sports;Gotland Sports;Summer;FALSE
+HBL;Handball;Handball;Summer;TRUE
+HOC;Hockey;Hockey;Summer;TRUE
+HO5;Hockey 5s;Hockey;Summer;FALSE
+HUR;Hurling;Gaelic Sports;Summer;FALSE
+IHO;Ice Hockey;Ice Hockey;Winter;TRUE
+IST;Ice Stock Sport;Ice Stock Sport;Winter;FALSE
+JDP;Jeu De Paume;Jeu de Paume;Summer;TRUE
+JUD;Judo;Judo;Summer;TRUE
+KTS;Kaatsen;Kaatsen;Summer;FALSE
+KTE;Karate;Karate;Summer;TRUE
+KEN;Kendo;Kendo;Summer;FALSE
+KBL;Korfball;Korfball;Summer;FALSE
+KYU;Kyudo;Kyudo;Summer;FALSE
+LAX;Lacrosse;Lacrosse;Summer;TRUE
+LFC;Lifesaving;Lifesaving;Summer;FALSE
+LPM;Longue Paume;Jeu de Paume;Summer;FALSE
+LUG;Luge;Luge;Winter;TRUE
+OWS;Marathon Swimming;Aquatics;Summer;TRUE
+MXC;Military Exercise;Military Exercise;Summer;FALSE
+MSP;Military Ski Patrol;Skiing;Winter;TRUE
+MIX;Mixed Sports;Mixed Sports;Winter;FALSE
+MPN;Modern Pentathlon;Modern Pentathlon;Summer;TRUE
+MBO;Motorboating;Motorboating;Summer;TRUE
+MCS;Motorcycle Sports;Motorcycle Sports;Summer;FALSE
+NCB;Nordic Combined;Skiing;Winter;TRUE
+PSP;Pesäpallo;Pesäpallo;Summer;FALSE
+POL;Polo;Polo;Summer;TRUE
+RQT;Racquets;Racquets;Summer;TRUE
+GRY;Rhythmic Gymnastics;Gymnastics;Summer;TRUE
+RHO;Roller Hockey;Roller Sports;Summer;FALSE
+ROL;Roller Skating;Roller Sports;Summer;FALSE
+ROQ;Roque;Roque;Summer;TRUE
+ROW;Rowing;Rowing;Summer;TRUE
+RGB;Rugby;Rugby;Summer;TRUE
+RU7;Rugby Sevens;Rugby;Summer;TRUE
+SAL;Sailing;Sailing;Summer;TRUE
+SAV;Savate;Savate;Summer;FALSE
+SHO;Shooting;Shooting;Summer;TRUE
+STK;Short Track Speed Skating;Skating;Winter;TRUE
+SKB;Skateboarding;Roller Sports;Summer;TRUE
+SKN;Skeleton;Bobsleigh;Winter;TRUE
+SJP;Ski Jumping;Skiing;Winter;TRUE
+SMT;Ski Mountaineering;Ski Mountaineering;Winter;FALSE
+SJR;Skijoring;Skiing;Winter;FALSE
+SBD;Snowboarding;Skiing;Winter;TRUE
+SOF;Softball;Baseball/Softball;Summer;TRUE
+SSK;Speed Skating;Skating;Winter;TRUE
+SPS;Speed Skiing;Skiing;Winter;FALSE
+CLB;Sport Climbing;Sport Climbing;Summer;TRUE
+SQU;Squash;Squash;Summer;FALSE
+SUM;Sumo;Sumo;Summer;FALSE
+SRF;Surfing;Surfing;Summer;TRUE
+SWM;Swimming;Aquatics;Summer;TRUE
+TTE;Table Tennis;Table Tennis;Summer;TRUE
+TKW;Taekwondo;Taekwondo;Summer;TRUE
+TEN;Tennis;Tennis;Summer;TRUE
+GTR;Trampolining;Gymnastics;Summer;TRUE
+TRI;Triathlon;Triathlon;Summer;TRUE
+TOW;Tug-Of-War;Tug-Of-War;Summer;TRUE
+UNK;Unknown Sport;Ancient Sports;Summer;FALSE
+VVO;Volleyball;Volleyball;Summer;TRUE
+WPO;Water Polo;Aquatics;Summer;TRUE
+WSK;Waterskiing;Waterskiing and Wakeboarding;Summer;FALSE
+WLF;Weightlifting;Weightlifting;Summer;TRUE
+WPE;Winter Pentathlon;Winter Pentathlon;Winter;FALSE
+WRE;Wrestling;Wrestling;Summer;TRUE
+WSU;Wushu;Wushu;Summer;FALSE
